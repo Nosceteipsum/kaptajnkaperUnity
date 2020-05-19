@@ -1,10 +1,10 @@
 # kaptajnkaperUnity
 Gengivelse af Mobilkaptajnkaper i en moderne spil motor (Unity)
 
-Kode lavet af: Tommy Kobberø Andersen
-Grafik lavet af: Jonas Raagaard
-Musik lavet af: Eric Matyas (www.soundimage.org)
-Lyd lavet af: http://mightycodedragon.com/KaptajnKaper/license/
+Kode lavet af: Tommy Kobberø Andersen  
+Grafik lavet af: Jonas Raagaard  
+Musik lavet af: Eric Matyas (www.soundimage.org)  
+Lyd lavet af: http://mightycodedragon.com/KaptajnKaper/license/  
 
 Projektet er lavet for sjovt og får at få mere erfaring med Unity.
 Jeg håber koden kan bruges af andre som inspiration og i har min tilladelse til at gøre hvad i vil med koden. 
