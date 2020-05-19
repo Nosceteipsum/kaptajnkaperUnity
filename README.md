@@ -6,15 +6,14 @@ Grafik lavet af: Jonas Raagaard
 Musik lavet af: Eric Matyas (www.soundimage.org)  
 Lyd lavet af: http://mightycodedragon.com/KaptajnKaper/license/  
 
-Projektet er lavet for sjovt og får at få mere erfaring med Unity.
+Projektet er lavet for sjovt og får at få mere erfaring med Unity.  
 Jeg håber koden kan bruges af andre som inspiration og i har min tilladelse til at gøre hvad i vil med koden. 
+Oprindelig J2ME kildekode: https://github.com/Nosceteipsum/Mobilkaptajnkaper
 
 ![Title_Image](http://logicwork.net/images/github/unity_kk_title.png)  
 ![Title_Image](http://logicwork.net/images/github/unity_kk.jpg)  
 ![Title_Image](http://logicwork.net/images/github/unity_kk1.jpg)  
 ![Title_Image](http://logicwork.net/images/github/unity_kk2.jpg)  
-
-Oprindelig J2ME kildekode: https://github.com/Nosceteipsum/Mobilkaptajnkaper
 
 Der er stadig flere muligheder for at bygge videre på koden. 
 Forslag til tilføjelser:
