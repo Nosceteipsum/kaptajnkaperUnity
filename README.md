@@ -1,4 +1,4 @@
-# Kaptajn Kaper (Unity)
+# Kaptajn Kaper remake (Unity)
 Gengivelse af Mobil-KaptajnKaper i en moderne spil motor (Unity)
 
 Kode lavet af: Tommy Kobberø Andersen  
