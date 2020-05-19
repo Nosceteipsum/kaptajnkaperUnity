@@ -1,4 +1,4 @@
-# kaptajnkaperUnity
+# Kaptajn Kaper (Unity)
 Gengivelse af Mobilkaptajnkaper i en moderne spil motor (Unity)
 
 Kode lavet af: Tommy Kobberø Andersen  
