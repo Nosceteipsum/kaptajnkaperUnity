@@ -1,5 +1,5 @@
 # Kaptajn Kaper (Unity)
-Gengivelse af Mobilkaptajnkaper i en moderne spil motor (Unity)
+Gengivelse af Mobil-KaptajnKaper i en moderne spil motor (Unity)
 
 Kode lavet af: Tommy Kobberø Andersen  
 Grafik lavet af: Jonas Raagaard  
